@@ -1,1 +1,1 @@
-Computer Architecture Assignment HK212 HCMUT
+Computer Architecture Labs and Assignment HCMUT HK212
